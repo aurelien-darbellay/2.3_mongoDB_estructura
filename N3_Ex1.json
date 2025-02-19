@@ -1,0 +1,86 @@
+{
+  "_id": {
+    "$oid": "67b5c457d63b6b1cd9094edc"
+  },
+  "title": "The Matrix",
+  "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+  "size": "1.5GB",
+  "length": "2h 16min",
+  "thumbnail": "https://www.imdb.com/title/tt0133093/mediaviewer/rm3594684160/",
+  "numReproductions": "1.234.567",
+  "numLiks": "1.000.000",
+  "numDislikes": "10",
+  "status": "public",
+  "accessViaPlaylist": true,
+  "tags": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "publishedAt": {
+    "$date": "1999-03-31T00:00:00Z"
+  },
+  "publishedBy": {
+    "_id": {
+      "$oid": "67b5c457d63b6b1cd9094edd"
+    },
+    "name": "Lana Wachowski",
+    "numSubscribers": "18"
+  },
+  "comments": [
+    {
+      "_id": {
+        "$oid": "67b5c457d63b6b1cd9094ede"
+      },
+      "text": "lalali",
+      "publishedAt": {
+        "$date": "2025-02-19T11:45:27.417Z"
+      },
+      "publishedBy": {
+        "_id": {
+          "$oid": "67b5c457d63b6b1cd9094edf"
+        },
+        "username": "sharkyshark"
+      },
+      "replies": [
+        {
+          "_id": {
+            "$oid": "67b5c457d63b6b1cd9094ee0"
+          },
+          "text": "lilila",
+          "publishedAt": {
+            "$date": "2025-02-19T11:45:27.417Z"
+          },
+          "publishedBy": {
+            "_id": {
+              "$oid": "67b5c457d63b6b1cd9094ee1"
+            },
+            "username": "Sirenita"
+          }
+        }
+      ]
+    }
+  ],
+  "suggestedVideos": [
+    {
+      "_id": {
+        "$oid": "67b5c457d63b6b1cd9094ee2"
+      },
+      "name": "Hola ketal",
+      "thumbnail": "......"
+    },
+    {
+      "_id": {
+        "$oid": "67b5c457d63b6b1cd9094ee3"
+      },
+      "name": "Hola kotil",
+      "thumbnail": "......"
+    },
+    {
+      "_id": {
+        "$oid": "67b5c457d63b6b1cd9094ee4"
+      },
+      "name": "kitchitril",
+      "thumbnail": "......"
+    }
+  ]
+}
