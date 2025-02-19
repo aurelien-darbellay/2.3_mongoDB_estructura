@@ -35,10 +35,10 @@ Una òptica, anomenada “Cul d'Ampolla”, vol informatitzar la gestió dels cl
 
 ### Exercici 1
 Imagina que tenim la següent interfície gràfica, des del punt de vista d’un client de l'Òptica. Com dissenyaries la base de dades que facilités la informació?
-![Client view](.Imagen1PHP.pjg)
+![Client view](.Imagen1PHP.jpg)
 ### Exercici 2
 I si el punt de vista fos de la interfície fossin les ulleres?
-![Glass view](.Imagen2PHP.pjg)
+![Glass view](.Imagen2PHP.jpg)
 
 ---
 
@@ -46,7 +46,7 @@ I si el punt de vista fos de la interfície fossin les ulleres?
 
 T’han contractat per a dissenyar una web que permeti fer comandes de menjar a domicili per Internet.
 Aquesta és la vista que hem de fer possible: 
-![Order view](.Imagen3PHP.pjg)
+![Order view](.Imagen3PHP.jpg)
 
 ### Requisits del sistema
 
@@ -101,7 +101,7 @@ Aquesta és la vista que hem de fer possible:
 
 Tractarem de fer un model senzill de com seria la base de dades per a una versió reduïda de YouTube.
 Aquesta és la vista que hem de fer possible: 
-![Video view](.Imagen4PHP.pjg)
+![Video view](.Imagen4PHP.jpg)
 ### Requisits del sistema
 
 1. **Usuaris/es**:
