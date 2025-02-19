@@ -1,0 +1,67 @@
+{
+  "_id": {
+    "$oid": "67b5bc6f3d353779e605c3be"
+  },
+  "orderDate": {
+    "$date": "2025-02-19T11:11:43.742Z"
+  },
+  "type": "delivery",
+  "pizzas": [
+    {
+      "_id": {
+        "$oid": "67b5bc6f3d353779e605c3bf"
+      },
+      "name": "Margherita",
+      "description": "Tomato, mozzarella, basil",
+      "img": "https://www.dominos.ch/website/var/tmp/image-thumbnails/0/0/thumb__gallery/0/0/0/0/10700.thumb",
+      "price": 15
+    }
+  ],
+  "numPizzas": 1,
+  "hamburgers": [],
+  "numHamburgers": 0,
+  "drinks": [
+    {
+      "_id": {
+        "$oid": "67b5bc6f3d353779e605c3c0"
+      },
+      "name": "Coca-Caka",
+      "description": "33cl",
+      "img": "https://www.dominos.ch/website/var/tmp/image-thumbnails/0/0/thumb__gallery/0/0/0/0/10700.thumb",
+      "price": 5
+    }
+  ],
+  "numDrinks": 1,
+  "totalprice": 20,
+  "informations": "left front door",
+  "store": {
+    "_id": {
+      "$oid": "67b5bc6f3d353779e605c3c1"
+    },
+    "name": "Domino's Pizza",
+    "address": "77 rue du Tram",
+    "locality": "Lausanne",
+    "province": "Vaud",
+    "zipcode": "1000",
+    "courier": {
+      "_id": {
+        "$oid": "67b5bc6f3d353779e605c3c2"
+      },
+      "name": "John Doe",
+      "phone": "079 123 45 67",
+      "nif": "CHE-123.456.789",
+      "type": "delivery"
+    }
+  },
+  "customer": {
+    "_id": {
+      "$oid": "67b5bc6f3d353779e605c3c3"
+    },
+    "name": "Aurélien Darbellay",
+    "address": "77 rue du Tram",
+    "floor": 2,
+    "door": "B",
+    "phone": "079 123 45 67",
+    "email": ""
+  }
+}

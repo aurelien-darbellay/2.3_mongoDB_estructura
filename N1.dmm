@@ -1726,7 +1726,7 @@
 		}
 	},
 	"model": {
-		"activeDiagram": "8735736b-a99d-4519-a54f-ed6d33d5fe5b",
+		"activeDiagram": "a11ba022-7777-4a07-8050-7df2d7438d9b",
 		"desc": "",
 		"name": "DataStructure",
 		"id": "2842d771-aa4d-4bd0-8ac8-6254d703d3ec",
@@ -1752,7 +1752,7 @@
 		"def_collation": "",
 		"def_coltopk": true,
 		"def_others": "",
-		"lastSaved": "",
+		"lastSaved": 1739960299352,
 		"writeFileParam": false,
 		"authorName": "",
 		"companyDetails": "",
@@ -1760,7 +1760,8 @@
 		"def_validationAction": "na",
 		"def_validationLevel": "na",
 		"connectionId": "a3538217-373b-498d-bf2f-48dc434fa92e",
-		"connectionVersion": "8.0.4"
+		"connectionVersion": "8.0.4",
+		"modelPdfReportPath": "C:\\Users\\strou\\OneDrive\\Documentos\\Programación\\JAVA\\JAVA_IT\\Sprint 2\\2.3_mongoDB_estructura\\N1_Ex2.pdf"
 	},
 	"otherObjects": {},
 	"diagrams": {
@@ -1783,8 +1784,8 @@
 					"collapsed": false
 				},
 				"bb6d2ae9-9812-4bd7-8d1a-b0916a389c45": {
-					"x": 1360,
-					"y": 502,
+					"x": 888,
+					"y": 263,
 					"gHeight": 153,
 					"gWidth": 198,
 					"background": "transparent",
@@ -1796,8 +1797,8 @@
 					"collapsed": false
 				},
 				"bed8b46b-72e7-4b32-a1a2-c6f9826816ba": {
-					"x": 1090,
-					"y": 448,
+					"x": 595,
+					"y": 410,
 					"gHeight": 135,
 					"gWidth": 205,
 					"background": "transparent",
@@ -1809,8 +1810,8 @@
 					"collapsed": false
 				},
 				"f890c41a-a33a-4038-8878-9cb2d1f143b9": {
-					"x": 770,
-					"y": 286,
+					"x": 580,
+					"y": 140,
 					"gHeight": 189,
 					"gWidth": 250,
 					"background": "transparent",
@@ -1822,8 +1823,8 @@
 					"collapsed": false
 				},
 				"9ae10dba-6a79-4fbc-b33f-0902e2afaab9": {
-					"x": 440,
-					"y": 214,
+					"x": 203,
+					"y": 305,
 					"gHeight": 99,
 					"gWidth": 269,
 					"background": "transparent",
@@ -1994,8 +1995,8 @@
 				},
 				"35c621a9-2dd8-40e8-b0ec-5a2aae110d2c": {
 					"referencedItemId": "35c621a9-2dd8-40e8-b0ec-5a2aae110d2c",
-					"x": 124,
-					"y": 541,
+					"x": 170,
+					"y": 420,
 					"gHeight": 99,
 					"gWidth": 269,
 					"color": "transparent",
@@ -2021,7 +2022,7 @@
 			},
 			"scroll": {
 				"x": 0,
-				"y": 0
+				"y": 12
 			},
 			"type": "erd",
 			"showHorizontal": true,
