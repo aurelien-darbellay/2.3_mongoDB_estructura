@@ -35,15 +35,18 @@ Una òptica, anomenada “Cul d'Ampolla”, vol informatitzar la gestió dels cl
 
 ### Exercici 1
 Imagina que tenim la següent interfície gràfica, des del punt de vista d’un client de l'Òptica. Com dissenyaries la base de dades que facilités la informació?
-
+![Client view](.image1PHP.pjg)
 ### Exercici 2
 I si el punt de vista fos de la interfície fossin les ulleres?
+![Glass view](.image2PHP.pjg)
 
 ---
 
 ## Nivell 2: Comandes de menjar a domicili
 
 T’han contractat per a dissenyar una web que permeti fer comandes de menjar a domicili per Internet.
+Aquesta és la vista que hem de fer possible: 
+![Order view](.image3PHP.pjg)
 
 ### Requisits del sistema
 
@@ -97,7 +100,8 @@ T’han contractat per a dissenyar una web que permeti fer comandes de menjar a 
 ## Nivell 3: YouTube
 
 Tractarem de fer un model senzill de com seria la base de dades per a una versió reduïda de YouTube.
-
+Aquesta és la vista que hem de fer possible: 
+![Video view](.image4PHP.pjg)
 ### Requisits del sistema
 
 1. **Usuaris/es**:
