@@ -1,0 +1,57 @@
+{
+  "_id": {
+    "$oid": "67b5ae3f573a319c51e6a912"
+  },
+  "brand": "Limited",
+  "frame": "floating",
+  "framColor": "black",
+  "prescriptionLeft": -1.3,
+  "prescriptionRight": -2.5,
+  "colorLeft": "blue",
+  "colorRight": "red",
+  "price": 200,
+  "supplier": {
+    "_id": {
+      "$oid": "67b5ae3f573a319c51e6a913"
+    },
+    "name": "Supplier2",
+    "address": {
+      "street": "rue du Tram",
+      "number": 77,
+      "floor": 1,
+      "door": "A",
+      "city": "Lausanne",
+      "zip": "1000",
+      "country": "Suisse"
+    },
+    "phone": "079 123 45 67",
+    "fax": "021 123 45 67",
+    "nif": "CHE-123.456.789"
+  },
+  "salesList": [
+    {
+      "_id": {
+        "$oid": "67b5ae3f573a319c51e6a914"
+      },
+      "saleDate": {
+        "$date": "2025-02-19T10:11:11.702Z"
+      },
+      "employeeResponsible": "John Doe",
+      "costumer": {
+        "_id": {
+          "$oid": "67b5ae3f573a319c51e6a915"
+        },
+        "name": "Aurélien Darbellay",
+        "address": "77 rue du Tram",
+        "phone": "079 123 45 67",
+        "email": "aure@gmail.com",
+        "registrationDate": {
+          "$date": "2025-02-19T10:11:11.702Z"
+        },
+        "broughtBy": {
+          "$oid": "67b5ae3f573a319c51e6a916"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "_id": {
+    "$oid": "67b5ae3f573a319c51e6a90a"
+  },
+  "name": "Aurélien Darbellay",
+  "address": "77 rue du Tram",
+  "phone": "079 123 45 67",
+  "email": "aure@gmail.com",
+  "registrationDate": {
+    "$date": "2025-02-19T10:11:11.701Z"
+  },
+  "broughtBy": {
+    "$oid": "67b5ae3f573a319c51e6a90b"
+  },
+  "shoppinglist": [
+    {
+      "_id": {
+        "$oid": "67b5ae3f573a319c51e6a90c"
+      },
+      "saleDate": {
+        "$date": "2025-02-19T10:11:11.701Z"
+      },
+      "employeeResponsible": "John Doe",
+      "glasses": [
+        {
+          "brand": "Ray-Burn",
+          "frame": "floating",
+          "framColor": "yellow",
+          "prescriptionLeft": -1.5,
+          "prescriptionRight": -1.5,
+          "colorLeft": "blue",
+          "colorRight": "red",
+          "price": 150,
+          "supplier": {
+            "_id": {
+              "$oid": "67b5ae3f573a319c51e6a90d"
+            },
+            "name": "Supplier1",
+            "address": {
+              "street": "rue du Tram",
+              "number": 77,
+              "floor": 1,
+              "door": "A",
+              "city": "Lausanne",
+              "zip": "1000",
+              "country": "Suisse"
+            },
+            "phone": "079 123 45 67",
+            "fax": "021 123 45 67",
+            "nif": "CHE-123.456.789"
+          }
+        },
+        {
+          "brand": "Ray-Bow",
+          "frame": "floating",
+          "framColor": "black",
+          "prescriptionLeft": -1.3,
+          "prescriptionRight": -2.5,
+          "colorLeft": "blue",
+          "colorRight": "red",
+          "price": 200,
+          "supplier": {
+            "_id": {
+              "$oid": "67b5ae3f573a319c51e6a90e"
+            },
+            "name": "Supplier2",
+            "address": {
+              "street": "rue du Tram",
+              "number": 77,
+              "floor": 1,
+              "door": "A",
+              "city": "Lausanne",
+              "zip": "1000",
+              "country": "Suisse"
+            },
+            "phone": "079 123 45 67",
+            "fax": "021 123 45 67",
+            "nif": "CHE-123.456.789"
+          }
+        }
+      ]
+    },
+    {
+      "_id": {
+        "$oid": "67b5ae3f573a319c51e6a90f"
+      },
+      "saleDate": {
+        "$date": "2025-02-19T10:11:11.701Z"
+      },
+      "employeeResponsible": "John Doe",
+      "glasses": [
+        {
+          "brand": "Limitless",
+          "frame": "floating",
+          "framColor": "yellow",
+          "prescriptionLeft": -1.5,
+          "prescriptionRight": -1.5,
+          "colorLeft": "blue",
+          "colorRight": "red",
+          "price": 150,
+          "supplier": {
+            "_id": {
+              "$oid": "67b5ae3f573a319c51e6a910"
+            },
+            "name": "Supplier3",
+            "address": {
+              "street": "rue du Tram",
+              "number": 77,
+              "floor": 1,
+              "door": "A",
+              "city": "Lausanne",
+              "zip": "1000",
+              "country": "Suisse"
+            },
+            "phone": "079 123 45 67",
+            "fax": "021 123 45 67",
+            "nif": "CHE-123.456.789"
+          }
+        },
+        {
+          "brand": "Limited",
+          "frame": "floating",
+          "framColor": "black",
+          "prescriptionLeft": -1.3,
+          "prescriptionRight": -2.5,
+          "colorLeft": "blue",
+          "colorRight": "red",
+          "price": 200,
+          "supplier": {
+            "_id": {
+              "$oid": "67b5ae3f573a319c51e6a911"
+            },
+            "name": "Supplier2",
+            "address": {
+              "street": "rue du Tram",
+              "number": 77,
+              "floor": 1,
+              "door": "A",
+              "city": "Lausanne",
+              "zip": "1000",
+              "country": "Suisse"
+            },
+            "phone": "079 123 45 67",
+            "fax": "021 123 45 67",
+            "nif": "CHE-123.456.789"
+          }
+        }
+      ]
+    }
+  ]
+}
